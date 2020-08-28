@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCurrentLocation</string>
+    <string name="my_current_location">My Current Location</string>
+    <string name="tojo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="current_location">Current Location</string>
+    <string name="get_location">Get_location</string>
+    <string name="Get_Location">Get Location</string>
+    <string name="location">LOCATION</string>
+    <string name="tolo">tolo</string>
+</resources>
